@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://sosnogorsk.github.io/Hidden-Heroes-Historic-Places-Story-Map/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1njZFEEviLqMdnW5VCSZ61K26UETnlkf6x-m986EXuSk/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1lqSZC63V86jMhnPlgO2XhSCbvm9kJaCgJDzeBTA-fo8/edit?gid=0#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
